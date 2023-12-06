@@ -31,24 +31,29 @@ This repository contains the code and documentation for an Instagram Reach Forec
    - The follower conversion rate, calculated as the percentage of users who follow after visiting the profile, is approximately 41%.
 
 ## How to Use
+
+
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/instagram-reach-forecasting.git
+   git clone https://github.com/ZikriTewelde/instaReachPredictor.git
    cd instagram-reach-forecasting
    
-2. **Install Dependencies:**
-  ```bash
-pip install -r requirements.txt
+2. **Install Dependencies**
+   
+   pip install -r requirements.txt
 
-3. **Run Jupyter Notebooks:**
+4. **Run Jupyter Notebooks:**
 
- Explore the notebooks in the notebooks directory to understand the data analysis and machine learning processes.
+Explore the notebooks in the notebooks directory to understand the data analysis and machine learning processes.
 
 4. **Modify and Experiment:**
 
-   Feel free to modify the code and experiment with different features or machine learning models to gain further insights.
+Feel free to modify the code and experiment with different features or machine learning models to gain further insights.
 
 ## Conclusion
 
 This Instagram Reach Forecasting project provides valuable insights into user engagement, the impact of various features on post reach, and effective strategies for improving content performance. The combination of data analysis and machine learning modeling offers a comprehensive approach to understanding and optimizing social media reach.
+
+
+
 
