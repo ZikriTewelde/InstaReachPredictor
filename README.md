@@ -1,6 +1,10 @@
 # Instagram Reach Forecasting
 
-![Cool Image](url-to-your-cool-image)
+
+<p align="center">
+  <img src="repoIMGs/insta.jpg" alt="instagram" width="300"/>
+</p>
+
 
 ## Overview
 This repository contains the code and documentation for an Instagram Reach Forecasting project. The goal of this project is to analyze and predict the reach of Instagram posts based on various features such as likes, comments, shares, and more. The insights gained from this analysis can help content creators and marketers understand the factors that contribute to post reach and optimize their social media strategy.
