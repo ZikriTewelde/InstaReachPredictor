@@ -1,8 +1,6 @@
 # Instagram Reach Forecasting
-
-
 <p align="center">
-  <img src="repoIMGs/insta.jpg" alt="instagram" width="300"/>
+  <img src="repoIMGs/insta.jpg" alt="instagram" width="200"/>
 </p>
 
 
