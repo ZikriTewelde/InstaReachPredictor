@@ -27,7 +27,7 @@ This repository contains the code and documentation for an Instagram Reach Forec
    - Posts with higher impressions tend to have more saves, indicating that users find the content valuable or worth revisiting.
 
 3. **Machine Learning Models:**
-   - The GradientBoostingRegressor model performs the best in predicting impressions, with an R2 value of 89.96%.
+   - The Decison Tree Regressor model performs the best in predicting impressions, with an R2 value of 94.69%.
 
 4. **Follower Conversion Rate:**
    - The follower conversion rate, calculated as the percentage of users who follow after visiting the profile, is approximately 41%.
